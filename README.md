@@ -119,13 +119,3 @@ This project is open source under the [MIT License](LICENSE).
 * All open-source developers and word game lovers ❤️
 
 ```
-
----
-
-### ✅ Pro Tips:
-- Replace `your-username` with your actual GitHub username in the clone URL.
-- Add `screenshot.png` to your repo root and update the filename if needed.
-- Optional: Add a live demo URL if you deploy it via Streamlit Cloud or Render.
-
-Let me know if you want a **custom banner**, **badges**, or **deployment instructions** added!
-```
