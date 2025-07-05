@@ -45,7 +45,7 @@ if "losses" not in st.session_state:
     st.session_state.losses = 0
 
 # Optional: Debug mode to see the word
-st.write("Secret word:", st.session_state.secret_word)
+# st.write("Secret word:", st.session_state.secret_word)
 
 # Input section
 col1, col2, col3 = st.columns([1, 2, 1])
