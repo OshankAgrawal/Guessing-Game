@@ -20,7 +20,7 @@ A fun, interactive word puzzle game built using [Streamlit](https://streamlit.io
 
 ## 📸 Demo
 
-![Game UI Screenshot](Guessing-Game/Screenshot.png) 
+To try out the game, visit [here](https://4-letter-word-guessing-game.streamlit.app/).
 
 ---
 
