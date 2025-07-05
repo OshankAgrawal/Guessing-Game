@@ -117,5 +117,3 @@ This project is open source under the [MIT License](LICENSE).
 * [Streamlit](https://streamlit.io/)
 * [NLTK Word Corpus](https://www.nltk.org/)
 * All open-source developers and word game lovers ❤️
-
-```
